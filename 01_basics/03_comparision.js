@@ -15,3 +15,4 @@ console.log(gameName.toUpperCase());
 console.log(gameName.charAt(4));
 console.log(gameName.indexOf('p')); //-1 means not present
 
+// Configured git
